@@ -1,0 +1,3 @@
+[submodule "BinaryTree"]
+	path = BinaryTree
+	url = https://github.com/egorbos-leetcode/BinaryTree.git
